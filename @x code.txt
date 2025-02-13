@@ -1,0 +1,26 @@
+<html>
+<title>Aniket CS24130</title>
+<body>
+<h5>List of 20 junk food </h5>
+<h1>lays</h1>
+<h2>Burger</h2>
+<h3>Pizza</h3>
+<h1>Hot dogs</h1>
+<h2>Ice cream</h2>
+<h3>potTO chips</h3>
+<h4>Freanch fries</h4>
+<h6>Nachos</h6>
+<h4>cake</h4>
+<h5>soft drinks</h5>
+<h6>snacks</h6>
+<h1>Noodles</h1>
+<h2>Doughnuts</h2>
+<h3>Coookkies</h3>
+<h4>Chocolate</h4>
+<h5>Candy</h5>
+<h6>Milkshakes</h6>
+<h1>popcoprn</h1>
+<h2>pasta</h2>
+<h3>coke</h3>
+</body>
+</html>
